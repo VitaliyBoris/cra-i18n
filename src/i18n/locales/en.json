@@ -1,0 +1,7 @@
+{
+  "app.content1": "To get started, edit",
+  "app.content2": "and save to reload.",
+  "app.content3": "Learn React",
+  "app.title": "Welcome to React",
+  "welcome": "Hello {name}, you have {unreadCount, number} {unreadCount, plural, one {message} other {messages}}"
+}
